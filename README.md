@@ -1,2 +1,4 @@
 # NFL-game-scores
-Get NFL game scores and print data to coma delimited text file
+This program uses nflgame API which reads data from NFL Game Center
+
+It looks at games played during season and prints data to coma delimited text file
